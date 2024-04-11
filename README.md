@@ -17,4 +17,4 @@
 
 - :zap: In my free time, I solve problems on capture the ether and read some web3 articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0x00web3user/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0x00web3user/)
