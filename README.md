@@ -1,20 +1,60 @@
+# Gaurav's Profile
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=0xSolidityWeb3&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+Welcome to my GitHub profile! 👋 I'm Gaurav Poudel, Web3 security advocate, and I love building / securing the projects and sharing knowledge with the community.
 
-- :telescope: I’m currently leaned toward the space of Web3 and Blockchain and contributing to security of smart contracts.
+## About Me
 
-- :seedling: Exploring how blockchain solves real world problem of centralization.
+I'm passionate about smart contract development, blockchain protocol, web3 security, etc and I'm constantly learning and exploring new technologies. Whether it's coding, designing, or solving complex problems, I enjoy every bit of it.
 
-- :zap: In my free time, I solve problems on capture the ether and read some web3 articles.
+## 🔭 I'm Currently Working On
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0x00web3user/)
+- [Project 1]: Creating a blockchain-based identity verification system allowing users to securely manage and share their identity     
+               data without centralized authorities.
+- [Project 2]: Develop a platform using smart contracts for freelancers and clients to connect and transact directly, eliminating 
+               intermediaries and ensuring trust through decentralized governance and reputation systems.
+- [Project 3]: Implement a blockchain solution for transparent and automated supply chain management, integrating smart contracts and 
+               IoT devices to optimize processes from production to distribution.
+
+## 🌱 I'm Currently Learning
+
+- Advance Gas Optimization
+- Secureum Epoch 
+- zero Knowledge
+
+## 💡 I'm Looking to Collaborate On
+
+If you have any exciting projects or ideas, feel free to reach out! I'm always open to collaboration and eager to contribute to meaningful projects.
+
+## 📫 How to Reach Me
+
+You can connect with me via:
+- Email: dynamiteinmyjacket@gmail.com
+- LinkedIn: https://www.linkedin.com/in/0x00web3user/
+
+## ⚡ Fun Fact
+
+Well, I'm a dumb except for computer
+
+## 🚀 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🛠️ My Favorite Tools and Technologies
+
+- Languages: Solidity, JS, C++
+- Frameworks: Foundry, Hardhat, Flask, Django, web3.js, ether.js
+- Tools: Slither, Surya, Medusa, Echidna
+
+## 🌟 Fun Projects
+
+Here are some of my favorite projects:
+- [Project 1]: Decentralized Governance
+- [Project 2]: Zero knowledge proof
+
+Feel free to explore my repositories to find more interesting projects!
+
+## 📝 License
+
+This README is licensed under [Choose a license you prefer, e.g., MIT License]. Feel free to use and modify it for your own profile.
+
+
