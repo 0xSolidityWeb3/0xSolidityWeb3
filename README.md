@@ -42,19 +42,16 @@ Well, I'm a dumb except for computer
 ## 🛠️ My Favorite Tools and Technologies
 
 - Languages: Solidity, JS, C++
-- Frameworks: Foundry, Hardhat, Flask, Django, web3.js, ether.js
+- Frameworks: Foundry, Node.js
 - Tools: Slither, Surya, Medusa, Echidna
 
 ## 🌟 Fun Projects
 
 Here are some of my favorite projects:
-- [Project 1]: Decentralized Governance
-- [Project 2]: Zero knowledge proof
+- [Project 1]: Taskify Application
+- [Project 2]: Odin Project Applications
 
 Feel free to explore my repositories to find more interesting projects!
 
-## 📝 License
-
-This README is licensed under [Choose a license you prefer, e.g., MIT License]. Feel free to use and modify it for your own profile.
 
 
